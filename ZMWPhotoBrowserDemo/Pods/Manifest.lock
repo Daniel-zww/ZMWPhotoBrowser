@@ -1,0 +1,20 @@
+PODS:
+  - DACircularProgress (2.3.1)
+  - MBProgressHUD (1.0.0)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+
+DEPENDENCIES:
+  - DACircularProgress
+  - MBProgressHUD
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+
+PODFILE CHECKSUM: 74d7e99984847923918678c56e069ab8688be82a
+
+COCOAPODS: 1.2.1
