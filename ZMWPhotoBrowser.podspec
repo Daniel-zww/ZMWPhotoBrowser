@@ -1,14 +1,11 @@
 Pod::Spec.new do |s|
 
   s.name = 'ZMWPhotoBrowser'
-  s.version = '2.1.3'
+  s.version = '3.0.0'
   s.license = 'MIT'
   s.summary = 'A simple iOS photo and video browser with optional grid view, captions and selections.'
   s.description = <<-DESCRIPTION
-                  MWPhotoBrowser can display one or more images or videos by providing either UIImage
-                  objects, PHAsset objects, or URLs to library assets, web images/videos or local files.
-                  The photo browser handles the downloading and caching of photos from the web seamlessly.
-                  Photos can be zoomed and panned, and optional (customisable) captions can be displayed.
+                  MWPhotoBrowser Version 2.1.2, MBProgressHUD 1.0.0, DACircularProgress 2.3.1, SDWebImage 4.0.0
                   DESCRIPTION
   s.homepage    = 'https://github.com/Daniel-zww/ZMWPhotoBrowser'
   s.author      = { 'Daniel' => '648118379@qq.com' }
